@@ -1,32 +1,28 @@
-## Hi there 👋 
+# Hi there 👋 
 
-<!--
-**TuckerMichael424/TuckerMichael424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Michael Maxwell Tucker - but you can call me Max!**
 
-Here are some ideas to get you started:
+## 👔 Experience & Skills
+Fraud & risk operations professional (4+ years, fintech/legal — Robinhood, Ascensus, Ryan Legal Services) building toward a Junior Data Analyst role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I came up running pre-written SQL queries and reconciling records under SLA pressure, not writing independent analysis — so I'm building that second half deliberately, in public. 
 
-# 👔 Experience & Skills
-Fraud & risk operations professional (4+ years, fintech/legal — Robinhood, Ascensus, Ryan Legal Services) [CURRENT: confirm — still in ops, or now in a back-end insurance role?] building toward a Data Analyst role.
+I have established intermediate/semi-advanced Excel knowledge (fundamentals, basic statistic formulas, VLOOKUPS, pivot tables), am intimate with the entire Google Workspace and Microsoft Office suite, Slack, Salesforce, and several other software. See my [LinkedIn profile](https://www.linkedin.com/in/Michael-Maxwell-Tucker/) for more details. 
 
-I came up running pre-written SQL queries and reconciling records under SLA pressure, not writing independent analysis — so I'm building that second half deliberately, in public.
+I aspire to work with data because I value accuracy, attention to detail, and utilizing the facts for taking action. 
 
-# 🧠 Currently Learning 
-- SQL fluency — JOINs and GROUP BY/HAVING are solid, subqueries/CTEs/window functions are next. Day-to-day practice lives in [SQL-Learning-Log](https://github.com/TuckerMichael424/SQL-Learning-Log) — it's the raw, unfiltered version, not a highlight reel.
+## 🧠 Currently Learning 
+
+**Primary Focus**
+- SQL fluency — JOINs and GROUP BY/HAVING are solid, subqueries/CTEs/window functions are next. Day-to-day practice is done in VSCode and lives in [SQL-Learning-Log](https://github.com/TuckerMichael424/SQL-Learning-Log) — it's the raw, unfiltered version, not a highlight reel.
 
 **Planned Future Topics** 
-- Python & related DA libraries - I am aware of fundamental programming concepts & have applied them. 
+- Python & related DA libraries - I am aware of fundamental programming concepts & have applied them.
+- Power BI & Tableau - I'm familiar with the UIs of both but have yet to utilize them further.
+- 
 
-**Finished project write-ups:** [Data-Analysis-Portfolio](https://github.com/TuckerMichael424/Data-Analysis-Portfolio)
+**Finished project write-ups:** 
+[Data-Analysis-Portfolio](https://github.com/TuckerMichael424/Data-Analysis-Portfolio)
 
 # 🎓 Education & Certs
 - B.A. English Studies, CSU Chico - Class of 2019 
