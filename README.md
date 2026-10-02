@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Michael (Max) Maxwell Tucker. 
+## Hi there 👋 
 
 <!--
 **TuckerMichael424/TuckerMichael424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 👔 Experience & Skills
 Fraud & risk operations professional (4+ years, fintech/legal — Robinhood, Ascensus, Ryan Legal Services) [CURRENT: confirm — still in ops, or now in a back-end insurance role?] building toward a Data Analyst role.
 
 I came up running pre-written SQL queries and reconciling records under SLA pressure, not writing independent analysis — so I'm building that second half deliberately, in public.
 
-**Currently working on:** SQL fluency — JOINs and GROUP BY/HAVING are solid, subqueries/CTEs/window functions are next. Day-to-day practice lives in [SQL-Learning-Log](https://github.com/TuckerMichael424/SQL-Learning-Log) — it's the raw, unfiltered version, not a highlight reel.
+# 🧠 Currently Learning 
+- SQL fluency — JOINs and GROUP BY/HAVING are solid, subqueries/CTEs/window functions are next. Day-to-day practice lives in [SQL-Learning-Log](https://github.com/TuckerMichael424/SQL-Learning-Log) — it's the raw, unfiltered version, not a highlight reel.
+
+**Planned Future Topics** 
+- Python & related DA libraries - I am aware of fundamental programming concepts & have applied them. 
 
 **Finished project write-ups:** [Data-Analysis-Portfolio](https://github.com/TuckerMichael424/Data-Analysis-Portfolio)
 
-**Background:** B.A. English Studies, CSU Chico. Google Data Analytics & IT Support certs (2024).
+# 🎓 Education & Certs
+- B.A. English Studies, CSU Chico - Class of 2019 
+- Google Data Analytics Professional Certificate (2024)
+- Google Information Technology Professional Certificate (2024)
+
+# ⚡ Fun Facts
+- 🐱 > 🐶 - respect to all dog lovers.
+- Gamer, guitarist, fantasy/sci-fi books, drawing are my hobbies. 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuckermichael424@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Michael-Maxwell-Tucker/)
